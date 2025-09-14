@@ -1,0 +1,398 @@
+﻿Category,Appliance,Type/Variant,Min Power (W),Max Power (W),Surge Factor,Typical Hours/day,Notes
+Laundry & Cleaning Appliances,Washing Machine,Manual (Non-Automatic),200.0,400,1.5,0.5–2,Basic units without spin; common in rural areas and low-income homes.
+Laundry & Cleaning Appliances,,Semi-Automatic (Twin Tub),300.0,600,1.5,0.5–2,"Widespread in Nigeria; affordable, requires manual water filling."
+Laundry & Cleaning Appliances,,Fully Automatic (Top Load),500.0,1000,1.5,0.5–2,"Urban homes; convenient, fills and drains automatically."
+Laundry & Cleaning Appliances,,Fully Automatic (Front Load),800.0,2000,1.8,0.5–2,"Premium option; gentle on clothes; seen in upscale homes, laundromats."
+Laundry & Cleaning Appliances,,Industrial Washer,2000.0,5000,2.0,4–12,"Used in hotels, hospitals, commercial laundries."
+Laundry & Cleaning Appliances,Clothes Dryer,Venting Dryer,1500.0,2500,1.5,1–3,Rare in Nigeria due to sunny weather; seen in urban apartments.
+Laundry & Cleaning Appliances,,Condenser Dryer,1800.0,3000,1.5,1–3,Premium; urban middle/upper-class homes.
+Laundry & Cleaning Appliances,,Washer-Dryer Combo,2000.0,3500,1.5,1–3,Used where space is limited; found in compact apartments.
+Laundry & Cleaning Appliances,,Industrial Dryer,3000.0,6000,2.0,2–6,"Laundromats, hotels."
+Laundry & Cleaning Appliances,Vacuum Cleaner,Handheld Vacuum,100.0,300,1.2,0.25–1,Used in cars and small households.
+Laundry & Cleaning Appliances,,Upright Vacuum,400.0,1200,1.3,0.25–2,Popular in homes and offices.
+Laundry & Cleaning Appliances,,Canister Vacuum,800.0,1600,1.3,0.25–2,"More powerful, common in hotels and large offices."
+Laundry & Cleaning Appliances,,Robotic Vacuum,30.0,60,1.0,1–4,Rare in Nigeria; premium households only.
+Laundry & Cleaning Appliances,,Industrial Vacuum,1000.0,3000,1.5,0.5–4,"Used in hotels, event halls, factories."
+Laundry & Cleaning Appliances,Steam Cleaner,Handheld Steam Cleaner,800.0,1200,1.3,0.25–1,"Used for tiles, fabrics; middle-class homes and cleaning services."
+Laundry & Cleaning Appliances,,Floor Steam Mop,1000.0,1500,1.3,0.25–1,"Found in upscale homes, hotels, offices."
+Laundry & Cleaning Appliances,Iron (Pressing Iron),Dry Iron,1000.0,1500,1.5,0.25–1,Widely used across Nigeria.
+Laundry & Cleaning Appliances,,Steam Iron,1200.0,2000,1.5,0.25–1,Common in middle-class homes.
+Laundry & Cleaning Appliances,,Cordless Iron,800.0,1200,1.5,0.25–1,"Rechargeable, less common; premium option."
+Laundry & Cleaning Appliances,,Industrial Iron (Heavy),2000.0,4000,1.5,0.5–2,"Used in hotels, tailoring shops, uniform services."
+Laundry & Cleaning Appliances,Sewing Machine,Manual/Electric Hybrid,30.0,80,1.0,1–4,Tailoring shops across Nigeria.
+Laundry & Cleaning Appliances,,Industrial Electric,300.0,800,1.2,2–8,Found in professional tailoring shops.
+Laundry & Cleaning Appliances,,Embroidery Machine,500.0,1200,1.3,2–6,Used in fashion design and branding shops.
+Laundry & Cleaning Appliances,Polisher,Floor Polisher,600.0,1200,1.3,1–3,"Found in offices, schools, hotels."
+Laundry & Cleaning Appliances,Water Extractor,Carpet/Water Vacuum,1000.0,2000,1.3,0.25–2,"Used in cleaning services, hotels, and large offices."
+Entertainment & Media Electronics,Television,CRT TV (Old Box TV),60.0,150,1.2,2–8,Very common in Nigeria in 1990s–2000s; still found in rural areas.
+Entertainment & Media Electronics,,"Small LED TV (24–32"")",20.0,60,1.0,2–8,"Affordable, used in hostels, small homes."
+Entertainment & Media Electronics,,"Medium LED TV (40–50"")",50.0,120,1.0,2–8,Common in middle-class homes.
+Entertainment & Media Electronics,,"Large LED TV (55–65"")",100.0,200,1.0,2–8,"Upper-class, living rooms, hotels."
+Entertainment & Media Electronics,,Smart TV (65”+),150.0,300,1.0,2–8,"Premium brands: LG, Samsung, Hisense."
+Entertainment & Media Electronics,,OLED TV,50.0,250,1.2,2–10,"Premium category, mostly in upper-class homes."
+Entertainment & Media Electronics,,QLED TV,70.0,300,1.2,2–10,"Premium, higher brightness; urban middle/upper-class."
+Entertainment & Media Electronics,Set-Top Box/Decoder,"Basic Decoder (DSTV, GOTV, Startimes)",15.0,30,1.1,3–12,Widely used across Nigeria.
+Entertainment & Media Electronics,,Smart TV Box (Android/Apple TV),5.0,15,1.0,2–8,"Urban, used for streaming."
+Entertainment & Media Electronics,Sound Systems,Mini Hi-Fi,50.0,200,1.2,1–8,"Entry-level, common in small homes."
+Entertainment & Media Electronics,,Large Hi-Fi/Home Theater,200.0,1000,1.3,2–8,Found in many middle-class homes.
+Entertainment & Media Electronics,,Soundbar (w/ Subwoofer),50.0,400,1.2,2–6,"Slim, common in modern homes."
+Entertainment & Media Electronics,,Professional PA System,500.0,2000,1.5,2–12,"Used in churches, mosques, parties, events."
+Entertainment & Media Electronics,Speakers,Small Bluetooth Speaker,5.0,20,1.0,1–8,"Portable, student-friendly."
+Entertainment & Media Electronics,,Medium Bluetooth Speaker,20.0,60,1.0,2–8,"JBL, Anker, Oraimo popular in Nigeria."
+Entertainment & Media Electronics,,Large Home Speaker System,100.0,300,1.5,2–6,"LG, Sony, Samsung; common in homes."
+Entertainment & Media Electronics,,Professional PA System,200.0,2000,2.0,2–6,"Used in churches, mosques, events."
+Entertainment & Media Electronics,Home Theater Systems,Compact 2.1 Channel,50.0,150,1.2,2–6,Common in homes for TVs.
+Entertainment & Media Electronics,,Full 5.1 Surround,150.0,500,1.2,2–6,Premium setups in living rooms.
+Entertainment & Media Electronics,,Soundbar (with Subwoofer),50.0,200,1.2,2–6,"Modern slim option, often in apartments."
+Entertainment & Media Electronics,Radios,Portable AM/FM Radio,2.0,10,1.0,1–6,"Battery/USB powered, common in rural homes."
+Entertainment & Media Electronics,,Rechargeable Radio,5.0,15,1.0,2–8,Popular for load shedding periods.
+Entertainment & Media Electronics,,Car Radio/Deck (standalone),10.0,30,1.0,1–6,Commonly repurposed in homes and kiosks.
+Entertainment & Media Electronics,Gaming Consoles,PlayStation (PS4/PS5),90.0,200,1.0,2–6,"Popular among youth, gaming lounges."
+Entertainment & Media Electronics,,Xbox Series X/S,80.0,200,1.0,2–6,"Less common, but present in urban setups."
+Entertainment & Media Electronics,,Nintendo Switch,10.0,30,1.0,2–6,Rare; portable gaming.
+Entertainment & Media Electronics,Recreational Lighting,Disco Lights (portable),20.0,80,1.2,2–6,"Small parties, clubs."
+Entertainment & Media Electronics,,Stage Lighting (professional),500.0,2000,2.0,2–6,"Events, concerts."
+Entertainment & Media Electronics,,LED Strip Lighting,5.0,30,1.0,2–8,Decorative home setups.
+Entertainment & Media Electronics,Media Players,DVD Player,15.0,30,1.1,1–5,Still used in many homes.
+Entertainment & Media Electronics,,Blu-ray Player,20.0,40,1.1,1–5,Rare; premium homes only.
+Entertainment & Media Electronics,Photography Equipment,DSLR Camera (charging),10.0,30,1.0,1–4,Used by photographers/videographers.
+Entertainment & Media Electronics,,Studio Light (Softbox/LED),50.0,200,1.5,2–6,Photo/video studios.
+Entertainment & Media Electronics,,Video Camera (charging),20.0,60,1.0,1–4,Media & events coverage.
+Entertainment & Media Electronics,Projectors,Mini Projector,30.0,80,1.1,1–4,Used for small presentations.
+Entertainment & Media Electronics,,Standard Projector,150.0,300,1.2,1–4,"Found in schools, offices, churches."
+Entertainment & Media Electronics,,4K Projector,200.0,500,1.3,1–4,"Premium use in homes, events."
+Entertainment & Media Electronics,Musical Instruments,Electric Keyboard,30.0,80,1.1,1–4,"Widely used in churches, schools, music training."
+Entertainment & Media Electronics,,Electric Guitar + Amp,50.0,200,1.2,1–4,"Common in churches, concerts."
+Entertainment & Media Electronics,,Drum Set (Electronic),40.0,100,1.1,1–3,"Used in music bands, churches, training schools."
+Entertainment & Media Electronics,Other Electronics,Karaoke Machine,50.0,150,1.2,1–6,Used in events and private homes.
+Entertainment & Media Electronics,,DJ Equipment (Mixer + Turntable),150.0,500,1.3,2–8,"Found in clubs, events, weddings."
+Office & Computing Devices,Desktop PC,Basic Office Desktop,100.0,250,1.3,4–10,"Used in cybercafés, offices, schools; brands: Dell, HP, Lenovo."
+Office & Computing Devices,,Gaming Desktop,300.0,800,1.5,2–8,"Heavy GPU usage, common among gamers & design professionals."
+Office & Computing Devices,,Workstation (CAD/3D),400.0,1000,1.5,2–10,"High-power; engineers, architects, video editors."
+Office & Computing Devices,Laptop PC,Netbook/Chromebook,20.0,50,1.1,4–12,Lightweight; used by students.
+Office & Computing Devices,,Ultrabook,30.0,60,1.1,4–12,"Slim laptops (Dell XPS, MacBook Air); business/urban users."
+Office & Computing Devices,,Standard Laptop,50.0,120,1.1,4–12,"Most common (HP, Dell, Acer)."
+Office & Computing Devices,,Gaming Laptop,120.0,250,1.3,2–8,High-performance; gamers & designers.
+Office & Computing Devices,,MacBook Pro,40.0,120,1.1,4–12,"Creative professionals, upper-class users."
+Office & Computing Devices,Monitors,LCD Monitor (19–24”),20.0,50,1.1,4–12,Widely used in offices & homes.
+Office & Computing Devices,,LED Monitor (24–32”),25.0,80,1.1,4–12,Standard modern type.
+Office & Computing Devices,,4K/Ultra-Wide Monitor,40.0,120,1.2,2–8,Premium workstations & gamers.
+Office & Computing Devices,Networking Devices,Wi-Fi Router,5.0,20,1.1,12–24,"Homes, offices, cybercafés."
+Office & Computing Devices,,Modem (4G/5G),3.0,10,1.0,8–24,Common for mobile internet.
+Office & Computing Devices,,Switch/Hub,10.0,40,1.1,12–24,"Offices, server rooms."
+Office & Computing Devices,,Server (Small Business),200.0,600,1.5,8–24,Corporate/IT firms.
+Office & Computing Devices,UPS (Backup Power),Small (600–1000VA),50.0,100,1.5,0.25–1,Homes & small offices.
+Office & Computing Devices,,Medium (1500–2000VA),100.0,300,1.5,0.25–1,"Offices, schools."
+Office & Computing Devices,,Large (3–5KVA),300.0,1000,1.5,0.25–1,"Businesses, data centers."
+Office & Computing Devices,Scanners,Flatbed Scanner,20.0,50,1.1,0.25–2,"Offices, schools."
+Office & Computing Devices,,Document Feeder Scanner,30.0,80,1.2,0.25–2,"Used in banks, corporate offices."
+Office & Computing Devices,Projectors (Office),Standard Projector,150.0,300,1.2,1–4,"Schools, offices, churches."
+Office & Computing Devices,,Short-Throw Projector,200.0,400,1.3,1–4,Premium boardrooms.
+Office & Computing Devices,Telecommunication,Landline Phone,2.0,10,1.0,2–6,Legacy devices in offices.
+Office & Computing Devices,,IP Phone (VoIP),3.0,15,1.0,2–8,"Found in call centers, offices."
+Mobile & Personal Devices,Mobile Phone Charger,Basic Charger (5W),3.0,5,1.0,2–8,Used for feature phones and older smartphones.
+Mobile & Personal Devices,,Fast Charger (18–30W),10.0,30,1.0,2–6,"Common for Android (Samsung, Tecno, Infinix)."
+Mobile & Personal Devices,,Super Fast Charger (60–120W),40.0,120,1.0,1–4,"Premium phones (Xiaomi, Oppo, OnePlus)."
+Mobile & Personal Devices,,Wireless Charger,5.0,20,1.0,2–6,Premium users; less common in Nigeria.
+Mobile & Personal Devices,Smartphones,Feature Phone (2G/3G),2.0,5,1.0,6–24,Basic Nokia/Itel; low energy.
+Mobile & Personal Devices,,Mid-Range Smartphone,5.0,15,1.0,6–18,"Most Nigerians (Tecno, Infinix, Samsung A-series)."
+Mobile & Personal Devices,,Premium Smartphone,10.0,20,1.0,6–18,"Apple iPhones, Samsung S-series."
+Mobile & Personal Devices,Tablets,Small Tablet (7–8”),10.0,20,1.0,4–12,Kids’ educational tablets.
+Mobile & Personal Devices,,Standard Tablet (10”),15.0,30,1.0,4–12,"iPad, Samsung Tab; schools and professionals."
+Mobile & Personal Devices,,Pro Tablet (12–13”),20.0,45,1.0,4–12,"iPad Pro, Surface Pro; business/creative users."
+Mobile & Personal Devices,Power Bank,"Small (5,000–10,000mAh)",5.0,10,1.0,4–12,Entry-level; charges 1–2 phones; pocket-sized.
+Mobile & Personal Devices,,"Medium (10,000–20,000mAh)",10.0,20,1.0,4–12,Most common in Nigeria; balances size & capacity.
+Mobile & Personal Devices,,"Large (20,000–40,000mAh)",20.0,40,1.0,4–12,Popular for students/travelers; can power tablets/laptops briefly.
+Mobile & Personal Devices,,"Extra Large (50,000mAh)",40.0,80,1.0,4–12,Premium heavy-duty units; can charge 4–6 devices multiple times; used by travelers/business users.
+Mobile & Personal Devices,,"Ultra Capacity (60,000–100,000mAh)",60.0,150,1.0,4–12,"Rare but growing in Nigeria; powers laptops, routers, fans; seen with content creators & field workers."
+Mobile & Personal Devices,,"Fitness Band (Fitbit, Xiaomi)",1.0,3,1.0,8–24,Health & fitness users.
+Mobile & Personal Devices,Bluetooth Devices,Bluetooth Earbuds,1.0,5,1.0,2–10,Most common mobile accessory.
+Mobile & Personal Devices,,Bluetooth Headphones,3.0,10,1.0,2–10,"For music lovers, gamers."
+Mobile & Personal Devices,,Bluetooth Speaker (Mini),5.0,15,1.0,2–8,"Used in homes, schools, hangouts."
+Mobile & Personal Devices,,Bluetooth Speaker (Large),20.0,60,1.0,2–8,"Parties, outdoor gatherings."
+Mobile & Personal Devices,E-Readers,Kindle/Nook,3.0,10,1.0,2–8,"Rare in Nigeria, used by book lovers."
+Mobile & Personal Devices,Portable Consoles,Nintendo Switch,10.0,20,1.0,1–6,Gaming; middle-class youth.
+Mobile & Personal Devices,,PlayStation Portable (PSP),5.0,15,1.0,1–6,Legacy handheld gaming.
+Small Kitchen Appliances,Electric Kettle,Standard (1–1.7L),1500.0,2000,1.0,0.25–1,"Widely used in homes for boiling water; brands: Binatone, Century, Scarlett."
+Small Kitchen Appliances,,Travel Kettle (0.5–1L),600.0,1000,1.0,0.25–1,Portable; students and travelers.
+Small Kitchen Appliances,,Smart/Temperature Control,1500.0,2200,1.0,0.25–1,"Premium; urban homes, offices."
+Small Kitchen Appliances,Blender,Personal Blender,200.0,400,1.2,0.25–1,"Smoothies, baby food; students, small kitchens."
+Small Kitchen Appliances,,Standard Household Blender,300.0,700,1.2,0.25–1,"Common in every Nigerian kitchen; e.g., Binatone, Kenwood."
+Small Kitchen Appliances,,High-Performance Blender,800.0,1500,1.3,0.25–1,"Premium; used in juice bars, restaurants, and homes."
+Small Kitchen Appliances,Toaster,2-Slice Toaster,700.0,1000,1.2,0.25–0.5,"Basic homes, students."
+Small Kitchen Appliances,,4-Slice Toaster,1000.0,1500,1.2,0.25–0.5,"Larger families, hotels."
+Small Kitchen Appliances,,Sandwich Maker,700.0,1200,1.2,0.25–0.5,Common in urban households.
+Small Kitchen Appliances,Rice Cooker,Small (1–2L),300.0,500,1.2,0.5–2,"Students, small families."
+Small Kitchen Appliances,,Medium (3–5L),500.0,900,1.2,0.5–2,Typical Nigerian family size.
+Small Kitchen Appliances,,Large (5L+),900.0,1500,1.2,0.5–2,"Parties, large families."
+Small Kitchen Appliances,Juicer,Citrus Juicer,30.0,100,1.2,0.25–1,Small kitchens; fresh juice.
+Small Kitchen Appliances,,Centrifugal Juicer,400.0,800,1.3,0.25–1,"Popular in juice bars, restaurants."
+Small Kitchen Appliances,,Cold-Press (Masticating),150.0,300,1.2,0.25–1,Premium; health-conscious users.
+Small Kitchen Appliances,Coffee Maker,Drip Coffee Maker,600.0,1000,1.2,0.5–2,"Offices, homes."
+Small Kitchen Appliances,,Espresso Machine,1000.0,2000,1.3,0.25–1,"Cafés, premium homes."
+Small Kitchen Appliances,,Capsule Coffee Machine,1200.0,1500,1.2,0.25–1,Rare in Nigeria; premium households.
+Small Kitchen Appliances,Mixer,Hand Mixer,150.0,300,1.2,0.25–1,Common in homes for baking.
+Small Kitchen Appliances,,Stand Mixer,300.0,800,1.2,0.25–1,"Used in bakeries, restaurants."
+Small Kitchen Appliances,Air Fryer,Compact (2–3L),800.0,1200,1.3,0.5–2,"Urban homes, health-conscious."
+Small Kitchen Appliances,,Standard (4–5L),1200.0,1800,1.3,0.5–2,Common size for families.
+Small Kitchen Appliances,,Large (6L+),1800.0,2200,1.3,0.5–2,Larger households; restaurants.
+Small Kitchen Appliances,Electric Pressure Cooker,Compact (3L),500.0,800,1.3,0.5–2,"Students, small households."
+Small Kitchen Appliances,,Standard (5L),700.0,1200,1.3,0.5–2,Typical family usage.
+Small Kitchen Appliances,,Large (6–8L),1000.0,1500,1.3,0.5–2,"Larger families, restaurants."
+Small Kitchen Appliances,Electric Grill,Contact Grill,1000.0,1500,1.2,0.5–2,"Urban kitchens, fast food joints."
+Small Kitchen Appliances,,Open Grill,1200.0,2000,1.2,0.5–2,"Homes, restaurants."
+Small Kitchen Appliances,,Panini Press,800.0,1200,1.2,0.5–2,"Sandwich shops, cafes."
+Large Cooking Appliances,Microwave Oven,Compact (17–20L),700.0,1000,1.2,0.25–1,"Used for reheating; small families, students."
+Large Cooking Appliances,,Standard (20–25L),1000.0,1500,1.2,0.25–1,Common in average homes.
+Large Cooking Appliances,,Convection/Multi-Function,1200.0,2000,1.3,0.25–1,"Premium homes, restaurants."
+Large Cooking Appliances,Electric Oven,Countertop (20–40L),1200.0,2000,1.3,0.5–2,Baking in homes; popular for cake business.
+Large Cooking Appliances,,Built-in Wall Oven,2000.0,3500,1.3,0.5–2,"Modern homes, luxury apartments."
+Large Cooking Appliances,,Commercial Oven,3000.0,6000,1.3,1–6,"Bakeries, restaurants."
+Large Cooking Appliances,Electric Stove,Single Burner Hotplate,1000.0,1500,1.2,0.5–2,"Students, small households."
+Large Cooking Appliances,,Double Burner Hotplate,1500.0,2500,1.2,0.5–3,Small to medium households.
+Large Cooking Appliances,,4-Burner Electric Stove,2000.0,4000,1.2,1–4,Larger households; common in cities.
+Large Cooking Appliances,,Induction Cooktop (1–2),1200.0,2200,1.3,0.5–2,Premium kitchens; energy efficient.
+Large Cooking Appliances,Cooker with Oven,Standard (4-Burner + Oven),2500.0,5000,1.3,1–4,Common in Nigerian families; mixes oven + stove.
+Large Cooking Appliances,,Premium (5–6 Burners + Oven),3500.0,7000,1.3,1–5,"Large households, restaurants."
+Large Cooking Appliances,Electric Grill/Oven Combo,Compact Grill Oven,1500.0,2000,1.2,0.5–2,"Small restaurants, homes."
+Large Cooking Appliances,,Large Grill Oven,2000.0,4000,1.2,1–4,"Hotels, catering services."
+Large Cooking Appliances,Deep Fryer,Small (1–2L),800.0,1200,1.2,0.25–1,"Small kitchens, students."
+Large Cooking Appliances,,Medium (2–4L),1200.0,1800,1.2,0.25–1,"Common in families, fast food joints."
+Large Cooking Appliances,,Large (5L+),1800.0,2500,1.2,1–2,"Restaurants, catering."
+Large Cooking Appliances,Electric Roaster,Compact (3–5L),1000.0,1500,1.2,0.5–2,"Rare, but used for chicken and meat."
+Large Cooking Appliances,,Large (10–20L),1500.0,2500,1.2,1–3,"Catering, events."
+Large Cooking Appliances,Pizza Oven,Countertop Pizza Oven,1000.0,2000,1.3,0.25–1,"Small pizzerias, premium homes."
+Large Cooking Appliances,,Commercial Pizza Oven,4000.0,8000,1.3,1–8,"Pizzerias, restaurants."
+Refrigeration Appliances,Refrigerator,Mini/Compact (50–100L),60.0,120,3.0,6–24,"Small offices, hostels, hotel rooms; brands like Midea, Hisense."
+Refrigeration Appliances,,Small (100–150L),80.0,150,3.0,6–24,Used in 1–2 person households.
+Refrigeration Appliances,,Medium (200–300L),100.0,250,3.0,6–24,"Standard family fridges (LG, Samsung, Scanfrost)."
+Refrigeration Appliances,,Large (400–500L),200.0,400,3.0,6–24,"Family-sized, common in middle-class homes."
+Refrigeration Appliances,,Premium (Side-by-Side),300.0,600,3.0,6–24,Luxury homes; includes water/ice dispensers.
+Refrigeration Appliances,,Commercial Display Fridge,300.0,800,3.0,8–24,"Supermarkets, restaurants for drinks."
+Refrigeration Appliances,Deep Freezer,Chest Freezer (100–200L),100.0,250,3.0,6–24,Common for frozen food storage in homes.
+Refrigeration Appliances,,Large Chest (300–500L),200.0,400,3.0,6–24,Widely used in Nigerian shops and small eateries.
+Refrigeration Appliances,,Upright Freezer (200–400L),200.0,500,3.0,6–24,Space-saving; used in restaurants and homes.
+Refrigeration Appliances,,Industrial Freezer,500.0,1500,3.0,12–24,"Hotels, frozen food businesses."
+Refrigeration Appliances,Wine Cooler/Chiller,Small (6–12 bottles),50.0,120,3.0,6–24,"Premium homes, lounges."
+Refrigeration Appliances,,Medium (20–40 bottles),100.0,200,3.0,6–24,"Restaurants, bars."
+Refrigeration Appliances,,Large (50+ bottles),150.0,300,3.0,6–24,"Hotels, luxury homes."
+Refrigeration Appliances,Ice Maker Machine,Portable,100.0,200,3.0,2–8,"Small parties, home use."
+Refrigeration Appliances,,Medium,200.0,400,3.0,4–12,"Restaurants, hotels."
+Refrigeration Appliances,,Commercial Industrial,500.0,1500,3.0,12–24,"Ice businesses, big bars."
+Refrigeration Appliances,Cold Room Unit,"Small (Walk-in, 5–10m³)",1000.0,3000,3.0,24,Small frozen food shops.
+Refrigeration Appliances,,Large (20–50m³),3000.0,6000,3.0,24,"Large businesses, markets, cold storage depots."
+Personal Care & Grooming Appliances,Hair Clipper/Trimmer,Corded,10.0,30,1.2,0.25–1,"Widely used in Nigerian barbershops; brands like Wahl, Andis."
+Personal Care & Grooming Appliances,,Cordless Rechargeable,5.0,20,1.2,0.25–1,Popular in rural homes with unreliable power.
+Personal Care & Grooming Appliances,,Professional Heavy-duty,20.0,50,1.5,0.5–2,Used in salons for continuous service.
+Personal Care & Grooming Appliances,Hair Dryer,Handheld (Basic),800.0,1200,1.5,0.25–1,Common in salons; affordable models.
+Personal Care & Grooming Appliances,,Professional Salon Grade,1200.0,2000,1.5,0.5–2,Stronger airflow; used in busy salons.
+Personal Care & Grooming Appliances,,Travel/Compact,500.0,800,1.5,0.25–0.5,"Foldable, low wattage, used in hotels or travel."
+Personal Care & Grooming Appliances,Shaver/Trimmer,Electric Foil Shaver,5.0,15,1.0,0.1–0.5,Common for facial grooming.
+Personal Care & Grooming Appliances,,Rotary Shaver,5.0,20,1.0,0.1–0.5,Premium models like Philips; mostly urban.
+Personal Care & Grooming Appliances,,Beard Trimmer,5.0,15,1.0,0.1–0.5,"Battery/USB powered, common in younger men."
+Personal Care & Grooming Appliances,Electric Toothbrush,Basic Rechargeable,1.0,5,1.0,0.1,Growing popularity in urban households.
+Personal Care & Grooming Appliances,,Premium Smart Brush,2.0,10,1.0,0.1,"Bluetooth-enabled, rare in Nigeria."
+Personal Care & Grooming Appliances,Hair Straightener,Basic Flat Iron,150.0,400,1.2,0.25–0.5,Used by ladies for hair styling at home.
+Personal Care & Grooming Appliances,,Professional Salon Grade,400.0,800,1.2,0.5–1,Stronger ceramic plates; used in salons.
+Personal Care & Grooming Appliances,Hair Curler,Basic Curling Iron,200.0,500,1.2,0.25–0.5,For personal beauty use.
+Personal Care & Grooming Appliances,,Professional Multi-barrel,500.0,1000,1.2,0.5–1,Popular in fashion/bridal salons.
+Personal Care & Grooming Appliances,Massage Devices,Handheld Massager,20.0,60,1.2,0.25–0.5,Used for relaxation in homes.
+Personal Care & Grooming Appliances,,Massage Chair (full-body),150.0,300,2.0,0.5–2,"Rare, found in spas, luxury homes."
+Personal Care & Grooming Appliances,Other Grooming,Electric Manicure Set,10.0,30,1.0,0.25,"Nail salons, rare in homes."
+Personal Care & Grooming Appliances,,Hair Removal Device (Laser),50.0,150,1.0,0.25,Rare; used in professional beauty clinics.
+Lighting & Small Power Devices,Light Bulbs,Incandescent (40–100W),40.0,100,1.0,4–12,"Old models, still found in rural homes."
+Lighting & Small Power Devices,,CFL (Energy Saver),9.0,23,1.0,4–12,Widely used in Nigerian households.
+Lighting & Small Power Devices,,LED Bulb (5–20W),5.0,20,1.0,4–12,"Current standard; used in homes, offices, streets."
+Lighting & Small Power Devices,,Smart LED Bulb,7.0,20,1.0,4–12,Wi-Fi/app control; mostly in premium homes.
+Lighting & Small Power Devices,Lamps,Rechargeable Lantern,2.0,10,1.0,2–12,"Common during outages; QASA, Elepaq brands."
+Lighting & Small Power Devices,,Desk/Study Lamp (LED),3.0,15,1.0,2–8,"Students, offices."
+Lighting & Small Power Devices,,Decorative Lamp/Chandelier,20.0,100,1.0,2–6,"Premium homes, hotels."
+Lighting & Small Power Devices,Outdoor Lighting,Solar Garden Light,1.0,10,1.0,6–12,"Used in compounds, pathways."
+Lighting & Small Power Devices,,Security Floodlight (LED),20.0,200,1.0,6–12,"Common in homes, streets, businesses."
+Lighting & Small Power Devices,,Halogen Floodlight,150.0,500,1.0,4–12,"Older tech, used in sports fields, events."
+Lighting & Small Power Devices,,Street Light (Solar LED),30.0,120,1.0,10–12,Increasingly adopted in Nigerian towns.
+Lighting & Small Power Devices,Chargers,Basic Phone Charger,3.0,15,1.0,2–6,"Ubiquitous, from Tecno, Infinix, iPhone, etc."
+Lighting & Small Power Devices,,Fast Charger (18–65W),18.0,65,1.0,2–6,Common for modern Android/iPhones.
+Lighting & Small Power Devices,,Laptop Charger (45–120W),45.0,120,1.0,2–8,"Varies by brand (Dell, HP, MacBook, Lenovo)."
+Lighting & Small Power Devices,,Multi-port USB Charger,10.0,60,1.0,2–8,"Used in offices, homes."
+Lighting & Small Power Devices,Power Banks,"Small (5,000–10,000mAh)",5.0,15,1.0,2–6,"Personal daily use, fits pocket."
+Lighting & Small Power Devices,,"Medium (20,000mAh)",10.0,25,1.0,2–6,"Most common in Nigeria (Oraimo, Anker)."
+Lighting & Small Power Devices,,"Large (30,000–50,000mAh)",20.0,40,1.0,2–6,"Students, business people, rural users."
+Lighting & Small Power Devices,,"Ultra (50,000mAh–100,000mAh)",40.0,100,1.0,2–6,"Rare, premium; can charge laptops and multiple phones."
+Lighting & Small Power Devices,Torches/Flashlights,Rechargeable Torch,3.0,10,1.0,2–6,"Widely used in outages, villages."
+Lighting & Small Power Devices,,Heavy-duty LED Flashlight,10.0,50,1.0,2–6,"Security guards, outdoor use."
+Lighting & Small Power Devices,,Headlamp (LED),2.0,10,1.0,2–6,"Used by mechanics, engineers, hunters."
+Lighting & Small Power Devices,Other Small Devices,Emergency Light (LED Tube),5.0,20,1.0,2–8,Common backup in Nigerian homes.
+Lighting & Small Power Devices,,Camping Light,5.0,30,1.0,2–8,"Outdoor, village markets."
+Lighting & Small Power Devices,,Mosquito Zapper Lamp,5.0,20,1.0,4–10,"Used in homes, rural communities to fight mosquitoes."
+Lighting & Small Power Devices,,Night Light (Kids Room),1.0,5,1.0,6–12,"Found in nurseries, children’s rooms."
+Lighting & Small Power Devices,Lanterns,Rechargeable LED Lantern,3.0,10,1.0,2–8,Widely used during power outages.
+Lighting & Small Power Devices,,Kerosene Lantern (Electric Wick Igniter),5.0,15,1.0,2–6,"Hybrid design, rare but still found in rural markets."
+Lighting & Small Power Devices,Extension/Adapters,Multi-plug Extension Box,5.0,15,1.0,4–12,"Common in homes, offices, shops."
+Lighting & Small Power Devices,,Surge Protector Extension,10.0,30,1.0,4–12,"Found in offices, tech setups."
+Lighting & Small Power Devices,Clocks,Digital Alarm Clock,2.0,10,1.0,6–24,"Found in bedrooms, hotels."
+Lighting & Small Power Devices,,Wall Clock (Battery/Electric),1.0,5,1.0,6–24,"Common in homes, schools, offices."
+Computing & Communication,Laptop,"Ultrabook (13–14"")",30.0,60,1.0,4–10,"Thin/lightweight; common in students, professionals. Brands: Dell XPS, MacBook Air, HP Envy."
+Computing & Communication,,"Standard/Business (15"")",45.0,90,1.0,4–10,"Most common in Nigeria; HP, Lenovo, Dell Inspiron."
+Computing & Communication,,Gaming Laptop,100.0,250,1.0,2–8,"High GPU load; Asus ROG, MSI, Alienware."
+Computing & Communication,,Workstation Laptop,120.0,300,1.0,4–10,For engineers/designers; brands like Dell Precision.
+Computing & Communication,Desktop PC,Basic Office/Desktop,100.0,200,1.0,4–10,"Found in schools, cybercafés, offices."
+Computing & Communication,,High-Performance/Gaming,300.0,800,1.0,2–8,"Used for graphics, gaming."
+Computing & Communication,,All-in-One PC,60.0,150,1.0,4–10,Compact; premium homes and offices.
+Computing & Communication,Monitors,"Small LED (19–24"")",15.0,40,1.0,4–10,Common office monitors.
+Computing & Communication,,"Medium LED (25–32"")",30.0,80,1.0,4–10,"Used in design studios, homes."
+Computing & Communication,,High-end 4K/Curved,60.0,150,1.0,2–8,"Designers, gamers, luxury setups."
+Computing & Communication,Networking Devices,Wi-Fi Router (Basic),5.0,15,1.0,6–24,"MTN, Airtel, Glo home routers."
+Computing & Communication,,4G/5G LTE MiFi,5.0,20,1.0,4–12,"Portable, used by students, professionals."
+Computing & Communication,,Fiber Optic Modem/ONT,10.0,30,1.0,6–24,"ISPs like IPNX, Smile, Spectranet."
+Computing & Communication,Printers,Inkjet Printer,20.0,50,1.5,0.25–1,"Home use, small offices."
+Computing & Communication,,Laser Printer,250.0,500,1.5,0.25–1,"Businesses, offices."
+Computing & Communication,,All-in-One (Print/Scan/Copy),30.0,100,1.5,0.25–1,"Found in cybercafés, SMEs."
+Computing & Communication,,Large Industrial Printer,1000.0,3000,1.5,2–8,"Printing presses, universities."
+Computing & Communication,Scanners,Flatbed Scanner,10.0,30,1.0,0.25–1,"Offices, schools."
+Computing & Communication,,Document Scanner (ADF),20.0,60,1.0,0.25–1,Used in businesses for bulk scanning.
+Computing & Communication,Projectors,Portable Pico Projector,10.0,30,1.0,0.25–2,"For presentations, travel."
+Computing & Communication,,Standard LED Projector,50.0,150,1.0,1–4,"Used in schools, churches, offices."
+Computing & Communication,,High-Brightness (LCD/DLP),200.0,500,1.0,2–6,"Found in event centers, universities."
+Computing & Communication,,Cinema-Grade Projector,1000.0,3000,1.0,4–12,"Rare; used in theaters, big auditoriums."
+Computing & Communication,Servers/Workstations,Small Server (Home/Office),200.0,500,1.2,6–24,"Small businesses, IT hubs."
+Computing & Communication,,Rack Server,500.0,1200,1.2,12–24,"Data centers, banks."
+Computing & Communication,,Blade Server,800.0,2500,1.2,12–24,"Large enterprises, universities."
+Water Systems & Related Appliances,Water Pumps,Small Domestic Pump (0.5HP),300.0,400,3.0,0.25–2,Used for overhead tank filling in small homes.
+Water Systems & Related Appliances,,Medium Pump (1HP),750.0,1000,3.0,0.5–3,"Common in duplex homes, borehole systems."
+Water Systems & Related Appliances,,Large Pump (1.5–2HP),1200.0,2500,3.0,1–4,"Used in estates, commercial water supply."
+Water Systems & Related Appliances,Borehole Systems,Submersible Pump (0.5–1HP),400.0,1200,3.0,1–3,Installed in boreholes; common in Nigerian homes.
+Water Systems & Related Appliances,,Submersible Pump (2–3HP),1500.0,3000,3.0,1–3,Large-scale water supply in communities and estates.
+Water Systems & Related Appliances,Water Dispensers,Tabletop Dispenser (Hot/Cold),500.0,800,1.5,1–6,"Common in offices, schools, urban homes."
+Water Systems & Related Appliances,,Standing Dispenser (Hot/Cold),500.0,1000,1.5,2–8,Widespread in offices and shops.
+Water Systems & Related Appliances,,Premium Dispenser (with fridge),800.0,1200,1.5,2–8,Luxury units in urban homes/offices.
+Water Systems & Related Appliances,Electric Water Heaters,Instant Shower Heater,2000.0,4000,1.5,0.25–1,Common in hotels and modern homes.
+Water Systems & Related Appliances,,Storage Tank Heater (30–100L),1500.0,3000,1.5,0.5–2,Found in larger urban homes.
+Water Systems & Related Appliances,,Solar Water Heater,0.0,100,0.0,4–8,Uses sunlight; minimal electric consumption.
+Water Systems & Related Appliances,Water Purifiers,Electric UV Purifier,20.0,60,1.0,1–6,Found in health-conscious urban homes.
+Water Systems & Related Appliances,,Reverse Osmosis System,30.0,100,1.0,2–8,Used in urban homes and offices.
+Water Systems & Related Appliances,,Portable Water Filter (USB-powered),5.0,15,1.0,1–4,"Rare, used during travel or emergencies."
+Water Systems & Related Appliances,Other Water Devices,Humidifier,20.0,50,1.0,2–8,Rare; used in AC rooms and offices.
+Water Systems & Related Appliances,,Dehumidifier,200.0,600,2.0,2–8,Used in coastal/rainy areas to reduce dampness.
+Water Systems & Related Appliances,,Water Fountain (Decorative),20.0,100,1.2,1–6,"Found in hotels, gardens, luxury homes."
+Security & Safety Appliances,CCTV Cameras,Analog CCTV,5.0,10,1.0,12–24,"Common in shops, homes, churches."
+Security & Safety Appliances,,IP Camera (Basic),5.0,15,1.0,12–24,Used in homes/offices with internet access.
+Security & Safety Appliances,,Dome Camera (Indoor),5.0,12,1.0,12–24,"Found in offices, banks."
+Security & Safety Appliances,,Bullet Camera (Outdoor),10.0,20,1.0,12–24,"Used in streets, estates, gates."
+Security & Safety Appliances,,PTZ Camera (Motorized),15.0,40,1.0,12–24,"High-end, movable, used in large compounds."
+Security & Safety Appliances,Alarm Systems,Burglar Alarm (Basic),5.0,15,1.0,12–24,"Installed in shops, banks, offices."
+Security & Safety Appliances,,Smart Alarm System,10.0,30,1.0,12–24,"Internet-enabled, more urban."
+Security & Safety Appliances,Access Control,Biometric Door Lock,5.0,15,1.0,12–24,"Used in offices, banks, smart homes."
+Security & Safety Appliances,,Smart Card Reader,5.0,15,1.0,12–24,"Installed in hotels, offices."
+Security & Safety Appliances,,Video Doorbell,5.0,20,1.0,2–8,"Rare, used in modern smart homes."
+Security & Safety Appliances,Fire Safety,Smoke Detector (Standalone),1.0,5,1.0,12–24,"Installed in kitchens, hotels."
+Security & Safety Appliances,,Smoke Detector (Smart),2.0,8,1.0,12–24,Wi-Fi connected; rare in Nigeria.
+Security & Safety Appliances,,Fire Alarm Control Panel,20.0,100,1.0,12–24,"Used in large buildings, malls."
+Security & Safety Appliances,Electric Fence,Fence Energizer (Small),10.0,50,2.0,12–24,Homes and small compounds.
+Security & Safety Appliances,,Fence Energizer (Large),50.0,200,2.0,12–24,"Estates, commercial facilities."
+Security & Safety Appliances,Motion Sensors,,2.0,10,1.0,12–24,"Security lights, alarms."
+Security & Safety Appliances,,Smart Motion Detector,5.0,15,1.0,12–24,Connected to CCTV or smart systems.
+Security & Safety Appliances,Intercom Systems,Wired Intercom Unit,5.0,15,1.0,2–8,"Common in offices, hotels."
+Security & Safety Appliances,,Wireless Intercom,5.0,20,1.0,2–8,Rare but growing in smart homes.
+Security & Safety Appliances,Other Devices,Siren (Emergency),10.0,100,1.0,0.1–0.5,"Used in police, fire trucks, compounds."
+Security & Safety Appliances,,Floodlight (Security Light),50.0,200,1.0,6–12,Outdoor security lighting.
+Security & Safety Appliances,,Solar Security Light,2.0,20,0.0,6–12,"Standalone solar; widely used in estates, villages."
+Tools & Workshop Equipment,Drills,Hand Drill (corded),250.0,500,1.2,0.5–2,"Common in workshops, small repairs."
+Tools & Workshop Equipment,,Hammer Drill (heavy duty),600.0,1200,1.5,0.5–2,Used in construction and borehole drilling.
+Tools & Workshop Equipment,Grinders,"Small Angle Grinder (4.5"")",500.0,800,1.5,0.5–2,"Popular in metal workshops, mechanic shops."
+Tools & Workshop Equipment,,"Large Angle Grinder (7–9"")",1000.0,2000,1.5,0.5–2,Heavy-duty industrial use.
+Tools & Workshop Equipment,Sewing Machines,Manual Sewing Machine (with motor),70.0,120,1.0,2–6,Common in tailoring shops.
+Tools & Workshop Equipment,,Electric Sewing Machine,100.0,200,1.0,2–6,"Modern, compact; home use."
+Tools & Workshop Equipment,,Industrial Sewing Machine,250.0,600,1.2,4–8,Large-scale tailoring and fashion houses.
+Tools & Workshop Equipment,Welding Machines,Arc Welder (small portable),2000.0,5000,2.5,1–4,Popular among roadside welders.
+Tools & Workshop Equipment,,Industrial Arc Welder,5000.0,10000,2.5,2–6,Used in heavy construction.
+Tools & Workshop Equipment,Air Compressors,Small Portable,250.0,1000,1.5,0.5–2,"Car repair shops, vulcanizers."
+Tools & Workshop Equipment,,Medium Garage Type,1000.0,3000,1.5,1–4,"Workshops, filling stations."
+Tools & Workshop Equipment,,Industrial Air Compressor,3000.0,10000,2.0,2–6,Heavy factories and construction.
+Tools & Workshop Equipment,Cutting Machines,Small Electric Saw,500.0,1500,1.5,0.5–2,"Carpentry shops, home DIY."
+Tools & Workshop Equipment,,Circular Saw,1200.0,2000,1.5,1–3,Common in woodworking shops.
+Tools & Workshop Equipment,,Industrial Cutting Machine,2000.0,5000,2.0,1–4,Factories and industrial projects.
+Tools & Workshop Equipment,Polishing & Sanding Tools,Orbital Sander,200.0,400,1.2,0.5–2,Furniture finishing.
+Tools & Workshop Equipment,,Belt Sander,600.0,1200,1.5,0.5–2,Woodwork shops.
+Tools & Workshop Equipment,Other Workshop Tools,Heat Gun,1000.0,2000,1.2,0.5–2,"Used for paint removal, shrinking plastics."
+Tools & Workshop Equipment,,Glue Gun,40.0,100,1.0,1–4,"DIY, crafting, repairs."
+Tools & Workshop Equipment,,Industrial Lathe Machine,5000.0,20000,2.0,2–8,Heavy machine shops.
+Tools & Workshop Equipment,,CNC Machine (basic),2000.0,6000,1.5,2–6,"Manufacturing, advanced fabrication."
+"Health, Medical & Lab Equipment",Hospital Beds,Motorized Bed (adjustable),100.0,300,1.2,12–24,"Found in modern hospitals, uses electric motors for adjustments."
+"Health, Medical & Lab Equipment",Patient Monitors,Basic Monitor,30.0,80,1.0,6–24,"Used in clinics to track vitals (heart rate, BP)."
+"Health, Medical & Lab Equipment",,Advanced ICU Monitor,80.0,150,1.0,12–24,"Found in intensive care units, continuous monitoring."
+"Health, Medical & Lab Equipment",Ultrasound Machines,Portable Ultrasound,200.0,500,1.2,2–8,Used in clinics and mobile health outreaches.
+"Health, Medical & Lab Equipment",,Standard Hospital Unit,500.0,1500,1.5,4–12,Found in hospitals for diagnostics.
+"Health, Medical & Lab Equipment",X-Ray Machines,Portable X-Ray,500.0,2000,2.0,1–4,Used in small clinics and dental offices.
+"Health, Medical & Lab Equipment",,Standard Radiology X-Ray,3000.0,10000,2.5,2–6,Installed in hospitals; requires high surge capacity.
+"Health, Medical & Lab Equipment",MRI Machines,Closed MRI,10000.0,50000,2.5,4–8,Found only in advanced hospitals.
+"Health, Medical & Lab Equipment",,Open MRI,5000.0,20000,2.5,4–8,Lower power but less detailed; used in diagnostic centers.
+"Health, Medical & Lab Equipment",CT Scanners,Compact CT,5000.0,20000,2.5,2–6,Found in specialized hospitals.
+"Health, Medical & Lab Equipment",,Full-body CT,20000.0,50000,2.5,2–6,Heavy diagnostic use; rare in Nigeria.
+"Health, Medical & Lab Equipment",Incubators,Infant Incubator,300.0,800,1.5,12–24,Neonatal care in maternity hospitals.
+"Health, Medical & Lab Equipment",Dialysis Machines,Hemodialysis Unit,1500.0,3000,1.5,3–6,Kidney centers and specialized hospitals.
+"Health, Medical & Lab Equipment",Oxygen Concentrators,Small Portable Unit,200.0,400,1.2,6–24,"Home healthcare, small clinics."
+"Health, Medical & Lab Equipment",,Large Medical Unit,400.0,1000,1.2,12–24,Hospital intensive care units.
+"Health, Medical & Lab Equipment",Laboratory Equipment,Centrifuge (small),100.0,500,1.5,2–6,Medical labs for blood/urine testing.
+"Health, Medical & Lab Equipment",,Centrifuge (large),1000.0,3000,2.0,2–6,Large hospitals and labs.
+"Health, Medical & Lab Equipment",,Incubator (medical/lab),200.0,800,1.5,12–24,Used in neonatal care and biology labs.
+"Health, Medical & Lab Equipment",,Blood Analyzer,200.0,500,1.5,2–6,Pathology labs.
+"Health, Medical & Lab Equipment",Respiratory Equipment,Oxygen Concentrator,300.0,800,1.5,6–24,"Home care, hospitals."
+"Health, Medical & Lab Equipment",,Ventilator (ICU),400.0,1200,2.0,12–24,Critical care in hospitals.
+"Health, Medical & Lab Equipment",Defibrillators,Portable AED,100.0,300,1.2,<1,Emergency use in ambulances and clinics.
+"Health, Medical & Lab Equipment",,Hospital Defibrillator,300.0,1000,1.2,<1,Used in emergency wards.
+"Health, Medical & Lab Equipment",Sterilizers (Autoclaves),Small Clinic Autoclave,500.0,1000,1.5,2–6,Used in dental and small clinics.
+"Health, Medical & Lab Equipment",,Large Hospital Autoclave,2000.0,5000,2.0,2–6,Found in hospitals and labs.
+"Health, Medical & Lab Equipment",,UV Sterilizer Cabinet,50.0,200,1.2,2–6,"Beauty salons, clinics."
+"Health, Medical & Lab Equipment",Microscopes,Basic Light Microscope,10.0,30,1.0,2–6,Schools and basic labs.
+"Health, Medical & Lab Equipment",,Digital Microscope,30.0,80,1.0,2–6,Advanced schools and clinics.
+"Health, Medical & Lab Equipment",,Research-grade Microscope,100.0,500,1.0,2–8,Universities and research labs.
+"Health, Medical & Lab Equipment",Lab Freezers,Compact Medical Freezer,100.0,300,3.0,6–24,For vaccines and lab samples.
+"Health, Medical & Lab Equipment",,Ultra-Low Freezer (-80°C),500.0,2000,3.0,12–24,Found in advanced labs and research institutes.
+"Health, Medical & Lab Equipment",Cold Storage (Medical),Vaccine Refrigerator (small),100.0,300,3.0,12–24,Rural clinics for vaccine preservation.
+"Health, Medical & Lab Equipment",,Medical Freezer (large),500.0,1500,3.0,12–24,"Hospitals, labs, blood banks."
+"Health, Medical & Lab Equipment",Surgical Tools,Electrosurgical Unit,300.0,1200,2.0,2–6,Used in operating rooms.
+"Health, Medical & Lab Equipment",,Surgical Lights (LED/Halogen),100.0,500,1.5,2–8,Found in theatres for precision lighting.
+"Health, Medical & Lab Equipment",Dental Equipment,Dental Chair with Tools,500.0,1500,1.5,2–8,Dentists and clinics.
+"Health, Medical & Lab Equipment",,Dental X-Ray Unit,200.0,800,2.0,1–4,Specialized dental clinics.
+Agricultural & Farming Equipment,Water Pumps (Irrigation/Borehole),Small Submersible Pump,200.0,1000,2.0,2–6,"Used for shallow wells, small farms."
+Agricultural & Farming Equipment,,Large Submersible Pump,1500.0,5000,2.5,2–8,"Borehole systems for estates, farms, rural communities."
+Agricultural & Farming Equipment,,Surface Pump,500.0,2000,2.0,2–6,Open-field irrigation.
+Agricultural & Farming Equipment,Grain Processing Machines,Grain Grinder/Mill (small),500.0,1500,2.0,1–4,"Small shops, rural areas."
+Agricultural & Farming Equipment,,Grain Thresher (large),2000.0,7000,2.5,2–6,"Large farms, cooperatives."
+Agricultural & Farming Equipment,Incubators,Small Egg Incubator (50–200 eggs),100.0,500,1.0,24,"Poultry farms, small agribusiness."
+Agricultural & Farming Equipment,,Large Incubator (1000+ eggs),1000.0,5000,1.2,24,Commercial poultry farms.
+Agricultural & Farming Equipment,Feed Processing Equipment,Feed Mixer (small),500.0,1500,2.0,2–6,Poultry and livestock farms.
+Agricultural & Farming Equipment,,Feed Pelletizer (large),2000.0,6000,2.5,2–8,Industrial animal feed production.
+Agricultural & Farming Equipment,Irrigation Systems,Drip Irrigation Pump,100.0,500,1.5,2–6,Small-scale vegetable farms.
+Agricultural & Farming Equipment,,Pivot Irrigation System,1000.0,4000,2.0,4–10,"Large farms (rice, maize, wheat)."
+Agricultural & Farming Equipment,Harvesting Equipment,Small Corn Sheller,500.0,1500,2.0,2–4,"Rural cooperatives, markets."
+Agricultural & Farming Equipment,,Rice Milling Machine,1000.0,5000,2.5,2–6,Medium to large rice mills.
+Agricultural & Farming Equipment,Cold Storage,Small Farm Cold Room,1000.0,3000,1.5,12–24,Vegetable and fruit storage.
+Agricultural & Farming Equipment,,Large Cold Warehouse,5000.0,20000,2.0,12–24,Industrial-scale food preservation.
+Agricultural & Farming Equipment,Sprayers,Electric Knapsack Sprayer,60.0,150,1.0,2–6,Farmers for pesticides and fertilizers.
+Agricultural & Farming Equipment,,Boom Sprayer (tractor-mounted),1000.0,3000,2.0,2–4,"Large farms, plantations."
+Agricultural & Farming Equipment,Greenhouse Systems,Ventilation Fan,100.0,500,1.2,6–12,Used to regulate temperature.
+Agricultural & Farming Equipment,,Grow Lights (LED/HID),50.0,500,1.0,6–18,Commercial greenhouses.
+Agricultural & Farming Equipment,Livestock Equipment,Automatic Watering System,50.0,200,1.0,4–12,"Poultry, cattle, goat farms."
+Agricultural & Farming Equipment,,Milking Machine,500.0,1500,2.0,2–6,Dairy farms.
+Educational & Institutional Appliances,Overhead Projectors,Classroom Overhead Projector,250.0,500,1.5,2–6,Used in older classrooms and lecture halls.
+Educational & Institutional Appliances,Smart Boards,Interactive Whiteboard,100.0,300,1.2,2–6,"Schools, training centers, universities."
+Educational & Institutional Appliances,Digital Displays,"Classroom LED Screen (32–55"")",80.0,250,1.0,2–8,"Modern classrooms, training halls."
+Educational & Institutional Appliances,Language Lab Equipment,Headsets + Consoles,50.0,150,1.0,2–6,Language learning facilities.
+Educational & Institutional Appliances,Science Lab Equipment,Microscope (digital),20.0,60,1.0,2–6,"Educational labs, research institutions."
+Educational & Institutional Appliances,,Centrifuge (small),100.0,500,1.5,1–4,Medical & science labs.
+Educational & Institutional Appliances,,Centrifuge (large),1000.0,3000,2.0,2–6,"Hospital, research institutions."
+Educational & Institutional Appliances,,Hot Plate (lab),200.0,1000,1.5,1–4,Chemistry labs for heating.
+Educational & Institutional Appliances,Classroom Tools,Document Camera,10.0,30,1.0,2–6,Used for live teaching demonstrations.
+Educational & Institutional Appliances,,Slide Projector,100.0,250,1.5,2–6,"Legacy device, some schools still use."
+Educational & Institutional Appliances,Library Equipment,Barcode Scanner,5.0,15,1.0,2–8,Used for borrowing/returns.
+Educational & Institutional Appliances,,Library Kiosk,100.0,300,1.2,6–12,Digital catalog search.
+Educational & Institutional Appliances,Institutional Printers,Heavy-Duty Printer (A3/A2),500.0,2000,2.0,2–8,"Printing exam scripts, books."
+Educational & Institutional Appliances,,Industrial Photocopier,1000.0,3000,2.5,4–12,"Universities, ministries."
+Educational & Institutional Appliances,AV Equipment,PA System (small hall),200.0,800,1.5,2–6,"Lecture halls, schools."
+Educational & Institutional Appliances,,PA System (large hall),1000.0,5000,2.0,2–8,"Universities, conferences."
+Educational & Institutional Appliances,Specialized Devices,3D Printer (educational),50.0,200,1.5,2–6,Schools teaching STEM/engineering.
+Educational & Institutional Appliances,,Robotics Kits (charging),20.0,100,1.0,2–6,Coding/robotics education labs.
+Educational & Institutional Appliances,Other Classroom Devices,Electronic Bell System,50.0,150,1.0,2–12,Used in schools for timekeeping.
+Educational & Institutional Appliances,,Classroom Fan (wall-mounted),40.0,80,1.2,6–12,For ventilation in classrooms.
