@@ -1,0 +1,33 @@
+{
+  "budget": 5000000.0,
+  "location": {
+    "state": "Lagos"
+  },
+  "appliances": [
+    {
+      "name": "Refrigerator",
+      "wattage": 200,
+      "hours_per_day": 24,
+      "quantity": 1
+    },
+    {
+      "name": "Air Conditioner",
+      "wattage": 1500,
+      "hours_per_day": 8,
+      "quantity": 2
+    },
+    {
+      "name": "Television",
+      "wattage": 150,
+      "hours_per_day": 6,
+      "quantity": 1
+    },
+    {
+      "name": "Lighting",
+      "wattage": 10,
+      "hours_per_day": 10,
+      "quantity": 10
+    }
+  ],
+  "autonomous_days": 3
+}

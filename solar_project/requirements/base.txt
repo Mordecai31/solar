@@ -1,0 +1,19 @@
+# Core
+fastapi
+uvicorn
+pydantic
+python-dotenv
+
+# Data
+pandas
+numpy
+
+# ML
+scikit-learn
+
+# Agent/Workflow
+langgraph
+
+# Other
+requests
+python-decouple
