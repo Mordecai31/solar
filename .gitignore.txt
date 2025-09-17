@@ -1,0 +1,5 @@
+# Ignore virtual environment
+myenv/
+
+# Ignore the ignore file itself
+.gitignore
