@@ -1,7 +1,0 @@
-Zone,States,Dry Season,Rainy Season,Dry_Season_Factor,Rainy_Season_Factor
-North West,"Kano, Kaduna, Sokoto, Katsina, Zamfara, Kebbi, Jigawa",Nov – Mar,Apr – Oct,0.9,0.7
-North East,"Borno, Yobe, Adamawa, Bauchi, Gombe, Taraba, Plateau",Nov – Mar,Apr – Oct,0.9,0.7
-North Central,"Niger, Kogi, Kwara, Benue, Nasarawa, FCT",Nov – Mar,Apr – Oct,0.9,0.7
-South West,"Lagos, Oyo, Ogun, Ondo, Ekiti, Osun",Nov – Mar,Apr – Oct,0.9,0.7
-South East,"Anambra, Enugu, Ebonyi, Imo, Abia",Nov – Mar,Apr – Oct,0.9,0.7
-South South (Coastal),"Rivers, Delta, Bayelsa, Akwa Ibom, Cross River, Edo",Nov – Feb,Mar – Oct,0.95,0.65
