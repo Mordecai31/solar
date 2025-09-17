@@ -3,6 +3,8 @@ import json
 from pydantic import ValidationError
 from solar_project.agents.input_validation_agent import InputValidationAgent
 from solar_project.data.schemas.user_input_schemas import UserInput
+from solar_project.agents.load_calculator_agent import LoadCalculatorAgent
+
 
 # It's good practice to have a fixtures file, but for now, we can define it here.
 # A better approach would be to move this to tests/conftest.py
@@ -65,3 +67,42 @@ def test_missing_required_field(validation_agent, valid_user_input_data):
     # Act & Assert
     with pytest.raises(ValidationError):
         validation_agent.validate(invalid_data)
+
+def test_load_calculator_agent_run(validation_agent, valid_user_input_data):
+    """
+    Tests the LoadCalculatorAgent's run method.
+    """
+    # Arrange
+    # First, get a validated UserInput object
+    validated_input = validation_agent.validate(valid_user_input_data)
+    initial_state = {"user_input": validated_input}
+
+    agent = LoadCalculatorAgent()
+
+    # Act
+    result_state = agent.run(initial_state)
+
+    # Assert
+    assert "total_daily_load_wh" in result_state
+
+    # Calculate expected load from the fixture data
+    # Refrigerator: 200W * 24h * 1 = 4800 Wh
+    # Air Conditioner: 1500W * 8h * 2 = 24000 Wh
+    # Television: 150W * 6h * 1 = 900 Wh
+    # Lighting: 10W * 10h * 10 = 1000 Wh
+    # Total = 4800 + 24000 + 900 + 1000 = 30700 Wh
+    expected_load = 30700.0
+
+    assert result_state["total_daily_load_wh"] == pytest.approx(expected_load)
+
+def test_load_calculator_agent_missing_input():
+    """
+    Tests that the LoadCalculatorAgent raises a KeyError if 'user_input' is missing.
+    """
+    # Arrange
+    initial_state = {} # Missing 'user_input'
+    agent = LoadCalculatorAgent()
+
+    # Act & Assert
+    with pytest.raises(KeyError, match="State must contain a 'user_input' key"):
+        agent.run(initial_state)
